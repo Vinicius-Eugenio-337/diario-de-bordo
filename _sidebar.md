@@ -7,7 +7,7 @@
   - [Exemplo — Formação de equipe](blog/2027-03-10-formacao-de-equipe-exemplo.md)
   - [Planejamento Inicial](blog/2026-09-23-planejamento-inicial.md)
   - [Andamento_das_Atividades](blog/2026-10-28-andamento-atividades.md)
-
+  - [Evolução e Desafios](blog/2026-11-18-evolucao-desafios.md)
 <!--
 Toda vez que você criar uma entrada nova em blog/ (5x no semestre, uma por
 fase), adicione uma linha aqui embaixo do item "Minhas entradas", apontando
